@@ -1,0 +1,3 @@
+Hello World
+w will overwrite the file
+a will not overwrite the file, it will append
